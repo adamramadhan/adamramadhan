@@ -1,5 +1,9 @@
 ## Hi there 👋 Im Adam!
 
+[Download Detailed CV](https://github.com/adamramadhan/adamramadhan/blob/main/Hi-Detailed.pdf) | [Download Short CV](https://github.com/adamramadhan/adamramadhan/blob/main/Hi-Short.pdf)
+
+
+
 ##### What I’m working on in free time;
 - ⚡ Web Crawling & NER Related
 - ⚡ Hosting & Infrastructure
