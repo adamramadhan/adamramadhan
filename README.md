@@ -45,7 +45,7 @@
 
 #### Development Language
 <p float="left">
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/node-dot-js.svg" width="25" height="25"></a>&nbsp; 
+<a href="#"><img src="https://simpleicons.org/icons/nodedotjs.svg" width="25" height="25"></a>&nbsp; 
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/typescript.svg" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/php.svg" width="25" height="25"></a>&nbsp; 
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/go.svg" width="25" height="25"></a>&nbsp; 
