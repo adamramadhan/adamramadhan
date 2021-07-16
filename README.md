@@ -78,7 +78,7 @@
 
 ##### Development Framework
 <p float="left">
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/next-dot-js.svg" width="25" height="25"></a>&nbsp; 
+<a href="#"><img src="https://simpleicons.org/icons/nextdotjs.svg" width="25" height="25"></a>&nbsp; 
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/laravel.svg" width="25" height="25"></a>&nbsp; 
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/tensorflow.svg" width="25" height="25"></a>
 </p>
