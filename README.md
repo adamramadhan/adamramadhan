@@ -8,8 +8,9 @@
 - ⚡ Broadband ISP & Its Software
 
 ### What I’m familiar with (left more often);
+
 #### Platform
-<p float="left" style="background-color: #fff;">
+<p float="left">
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/windows.svg" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/macos.svg" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/linux.svg" width="25" height="25"></a>&nbsp;
