@@ -10,8 +10,13 @@
 ### What I’m familiar with (left more often);
 
 #### Platform
+
 <p float="left">
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/windows.svg" width="25" height="25"></a>&nbsp;
+![Termux Logo](https://simple-icons.github.io/simple-icons-website/icons/windows.svg#gh-light-mode-only)
+![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)
+
+
+<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/windows.svg#gh-light-mode-only" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/macos.svg" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/linux.svg" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/proxmox.svg" width="25" height="25"></a>&nbsp;
