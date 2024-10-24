@@ -11,7 +11,7 @@
 
 
 <p float="left">
-<a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/ce334b5bda8d8d054cfde7ce35caf40651078a28/icons/windows.svg" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Windows_logo_-_2021_%28White%29.svg/512px-Windows_logo_-_2021_%28White%29.svg.png?20230326181935" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://cdn.simpleicons.org/macos/white" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://cdn.simpleicons.org/linux/white" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://cdn.simpleicons.org/proxmox/white" width="25" height="25"></a>&nbsp;
