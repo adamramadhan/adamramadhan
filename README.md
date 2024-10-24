@@ -18,10 +18,10 @@
 <a href="#"><img src="https://cdn.simpleicons.org/linuxcontainers/white" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://cdn.simpleicons.org/qemu/white" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://cdn.simpleicons.org/docker/white" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://cdn.simpleicons.org/amazonwebservices/white"" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://cdn.simpleicons.org/kubernetes/white"" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://cdn.simpleicons.org/freebsd/white"" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://cdn.simpleicons.org/googlecloud/white"" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/amazonwebservices/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/kubernetes/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/freebsd/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/googlecloud/white" width="25" height="25"></a>&nbsp;
 </p>
 
 #### Networking
@@ -29,7 +29,7 @@
 <p float="left">
 <a href="https://mikrotik.com/training/certificates/s199825ce3e3b46bf43b"><a href="#"><img src="https://images.squarespace-cdn.com/content/5ce2d7440a8094000167ed16/1558629633121-6F5VR73EOABCICRGJVIF/Screenshot+2019-05-23+at+17.40.09.png?format=1500w&content-type=image%2Fpng" height="25"></a>&nbsp; 
 <a href="#"><img src="https://cdn.simpleicons.org/fortinet/white" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://cdn.simpleicons.org/huawei/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/huawei/white" width="25" height="25"></a> & ZTE OLTs&nbsp;
 <a href="#"><img src="https://cdn.simpleicons.org/cisco/white" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://cdn.simpleicons.org/ubiquiti/white" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://cdn.simpleicons.org/pfsense/white" width="25" height="25"></a>&nbsp;
