@@ -13,7 +13,7 @@
 
 <p float="left">
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/windows.svg#gh-light-mode-only" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/macos.svg" width="25" height="25"></a>&nbsp;
+<a href="#"><img style="filter:invert(1);" src="https://simpleicons.org/icons/macos.svg" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/linux.svg" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/proxmox.svg" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/linuxcontainers.svg" width="25" height="25"></a>&nbsp;
