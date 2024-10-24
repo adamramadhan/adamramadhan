@@ -1,7 +1,5 @@
 ## Hi there 👋 Im Adam!
 
-
-
 ##### What I’m working on in free time;
 - ⚡ Web Crawling & NER Related
 - ⚡ Hosting & Infrastructure
@@ -11,94 +9,95 @@
 
 #### Platform
 
+
 <p float="left">
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/windows.svg#gh-light-mode-only" width="25" height="25"></a>&nbsp;
-<a href="#"><img style="filter:invert(1);" src="https://simpleicons.org/icons/macos.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/linux.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/proxmox.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/linuxcontainers.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/qemu.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/docker.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/amazonaws.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/kubernetes.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/freebsd.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/googlecloud.svg" width="25" height="25"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/ce334b5bda8d8d054cfde7ce35caf40651078a28/icons/windows.svg" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/macos/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/linux/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/proxmox/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/linuxcontainers/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/qemu/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/docker/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/amazonwebservices/white"" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/kubernetes/white"" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/freebsd/white"" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/googlecloud/white"" width="25" height="25"></a>&nbsp;
 </p>
 
 #### Networking
 
 <p float="left">
 <a href="https://mikrotik.com/training/certificates/s199825ce3e3b46bf43b"><a href="#"><img src="https://images.squarespace-cdn.com/content/5ce2d7440a8094000167ed16/1558629633121-6F5VR73EOABCICRGJVIF/Screenshot+2019-05-23+at+17.40.09.png?format=1500w&content-type=image%2Fpng" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/fortinet.svg" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/huawei.svg" width="25" height="25"><strong><sub><sup> & ZTE OLT</sup></sub></strong></a>&nbsp;  
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/cisco.svg" width="25" height="25"></a>&nbsp;  
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/ubiquiti.svg" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/pfsense.svg" height="25"></a>&nbsp; 
+<a href="#"><img src="https://cdn.simpleicons.org/fortinet/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/huawei/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/cisco/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/ubiquiti/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/pfsense/white" width="25" height="25"></a>&nbsp;
 </p>
 
 ##### Web Server
 <p float="left">
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/nginx.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://www.litespeedtech.com/images/logos/lsws-icon.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/apache.svg" width="25" height="25"></a>
+<a href="#"><img src="https://cdn.simpleicons.org/nginx/white" width="25" height="25"></a>&nbsp;
+<!-- <a href="#"><img src="https://cdn.simpleicons.org/lsws/white" width="25" height="25"></a>&nbsp; -->
+<a href="#"><img src="https://cdn.simpleicons.org/apache/white" width="25" height="25"></a>&nbsp;
 </p>
 
 #### Development Language
 <p float="left">
-<a href="#"><img src="https://simpleicons.org/icons/nodedotjs.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/typescript.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/php.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/go.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/python.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/julia.svg" width="25" height2550"></a>&nbsp; 
+<a href="#"><img src="https://cdn.simpleicons.org/nodedotjs/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/typescript/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/php/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/go/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/python/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/julia/white" width="25" height="25"></a>&nbsp;
 </p>
                                                                                                      
 #### Databases & Messenging
 <p float="left">
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/mariadb.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/mongodb.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/elasticsearch.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/oracle.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/redis.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/zeromq.svg" width="25" height="25"></a>&nbsp; 
+<a href="#"><img src="https://cdn.simpleicons.org/mariadb/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/mongodb/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/elasticsearch/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/influxdb/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/oracle/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/redis/white" width="25" height="25"></a>&nbsp;
+<!-- <a href="#"><img src="https://cdn.simpleicons.org/zeromq/white" width="25" height="25"></a>&nbsp; -->
 </p>       
 
 #### Devops Tools
 <p float="left">
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/ansible.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/datadog.svg" width="25" height="25"></a>&nbsp; 
-
+<a href="#"><img src="https://cdn.simpleicons.org/ansible/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/grafana/white" width="25" height="25"></a>&nbsp;
 </p>    
 
 ##### Design Framework
 <p float="left">
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/tailwindcss.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/bootstrap.svg" width="25" height="25"></a>
+<a href="#"><img src="https://cdn.simpleicons.org/tailwindcss/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/bootstrap/white" width="25" height="25"></a>&nbsp;
 </p>
 
 ##### Development Framework
 <p float="left">
-<a href="#"><img src="https://simpleicons.org/icons/nextdotjs.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/laravel.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/tensorflow.svg" width="25" height="25"></a>
+<a href="#"><img src="https://cdn.simpleicons.org/nextdotjs/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/laravel/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/tensorflow/white" width="25" height="25"></a>&nbsp;
 </p>
 
 ##### Communication Tools
 <p float="left">
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/skype.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/telegram.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/whatsapp.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/basecamp.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/github.svg" width="25" height="25"></a>
+<!-- <a href="#"><img src="https://cdn.simpleicons.org/skype/white" width="25" height="25"></a>&nbsp; -->
+<a href="#"><img src="https://cdn.simpleicons.org/telegram/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/whatsapp/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/basecamp/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/github/white" width="25" height="25"></a>&nbsp;
 </p>
 
 
 ##### Others
 <p float="left">
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/ceph.svg" width="25" height="25"></a>&nbsp; 
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/expo.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/cpanel.svg" width="25" height="25"></a>&nbsp;
-<a href="#"><img src="https://simple-icons.github.io/simple-icons-website/icons/plesk.svg" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/ceph/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/expo/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/cpanel/white" width="25" height="25"></a>&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/plesk/white" width="25" height="25"></a>&nbsp;
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/FreeRADIUS_wordmark.svg" height="25"></a>
 </p>
 
